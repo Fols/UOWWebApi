@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\UOWWebApi.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\UOWWebApi.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\UOWWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\UOWWebApi.RazorAssemblyInfo.cache
+C:\Users\Дмитрий\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\UOWWebApi.RazorAssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\UOWWebApi.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\UOWWebApi.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\UOWWebApi.deps.json
+C:\Users\Дмитрий\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\UOWWebApi.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\UOWWebApi.runtimeconfig.dev.json
+C:\Users\Дмитрий\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\UOWWebApi.dll
+C:\Users\Дмитрий\source\repos\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\UOWWebApi.pdb
+C:\Users\Дмитрий\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\UOWWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Дмитрий\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\UOWWebApi.dll
+C:\Users\Дмитрий\source\repos\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\UOWWebApi.pdb
